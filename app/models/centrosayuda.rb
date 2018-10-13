@@ -1,0 +1,2 @@
+class Centrosayuda < ApplicationRecord
+end
